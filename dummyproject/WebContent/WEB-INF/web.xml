@@ -1,0 +1,15 @@
+<web-app>
+	<display-name>dummyproject</display-name>
+
+<servlet>
+	<servlet-name>dummy</servlet-name>
+	<servlet-class>org.springframework.web.servlet.DispatcherServlet
+	<load-on-startup>1</load-on-startup>
+</servlet-class>
+</servlet>
+
+<servlet-mapping>
+	<servlet-name>dummy</servlet-name>
+	<url-pattern>/</url-pattern>
+</servlet-mapping>
+</web-app>

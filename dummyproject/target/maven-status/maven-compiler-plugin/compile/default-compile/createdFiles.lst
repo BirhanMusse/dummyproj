@@ -1,0 +1,14 @@
+com/dummy/beans/Credentials.class
+com/dummy/beans/App.class
+com/dummy/DAO/CredentialsDAO.class
+com/dummy/DAO/CredentialsDAOImpl.class
+com/dummy/util/HibernateUtil.class
+com/dummy/DAO/StudentDAO.class
+com/dummy/controllers/StudentController.class
+com/dummy/service/StudentServiceImpl.class
+com/dummy/service/CredentialsServiceImpl.class
+com/dummy/service/StudentService.class
+com/dummy/DAO/StudentDAOImpl.class
+com/dummy/service/CredentialsService.class
+com/dummy/beans/Student.class
+com/dummy/controllers/CredentialsController.class
